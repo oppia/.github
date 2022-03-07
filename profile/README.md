@@ -1,5 +1,3 @@
-# Oppia
-
 ![Oppia Banner](/profile/README_header_1200x600%20px.png)
 
 Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
