@@ -48,7 +48,7 @@ Note: Oppiabot is not accepting contributors right now.
 
 [twitter]: https://twitter.com/oppiaorg
 [linkedIn]: https://www.linkedin.com/company/oppia-org/
-[medium]: https://medium.com/@oppia.org
+[medium]: https://medium.com/oppia-org
 [facebook]: https://www.facebook.com/oppiaorg/
 [oppia-org-youtube]: https://www.youtube.com/channel/UC5c1G7BNDCfv1rczcBp9FPw
 [dev-youtube]: https://www.youtube.com/channel/UCsrAX-oeqm0-NIQzQrdiUkQ
