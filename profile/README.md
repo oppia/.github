@@ -6,7 +6,6 @@ Oppia is an open-source project whose aim is to empower learners across the glob
 
 <details> 
 	<summary><b>"I want more info❗"</b></summary>
-	<br>
     <ul>
         <li><a href="https://www.oppia.org/about-foundation">Our Vision</a></li>
         <li><a href="https://www.oppia.org/about">About our platform</a></li>
@@ -19,8 +18,8 @@ The web version of Oppia currently provides a growing curated set of lessons on 
 
 Oppia Web is written using Python, Typescript, and Angular.
 
-[How do I get started?](https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia)  
-[Codebase Overview](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase)
+ - [How do I get started?](https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia)  
+ - [Codebase Overview](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase)
 
 [GitHub_Discussion_Web]: https://github.com/oppia/oppia/discussions
 
@@ -30,12 +29,12 @@ The Android app is a new, not-yet-released frontend for Oppia that provides acce
 
 Oppia Android is written using Kotlin and Java, and it leverages Bazel, databinding, Dagger 2, and AndroidX.
 
-[How do I get started?](https://github.com/oppia/oppia-android/wiki#installation)  
-[Codebase Overview](https://github.com/oppia/oppia-android/wiki/Overview-of-the-Oppia-Android-codebase-and-architecture)
+ - [How do I get started?](https://github.com/oppia/oppia-android/wiki#installation)  
+ - [Codebase Overview](https://github.com/oppia/oppia-android/wiki/Overview-of-the-Oppia-Android-codebase-and-architecture)
 
 [GitHub_Discussion_Android]: https://github.com/oppia/oppia-android/discussions
 
-# [Oppiabot](https://github.com/oppia/oppiabot)
+## [Oppiabot](https://github.com/oppia/oppiabot)
 
 Oppiabot is a GitHub app built with probot and Github Actions. It acts as a helper for Oppia’s code repositories to maintain the development workflow. It is hosted on Heroku.
 
