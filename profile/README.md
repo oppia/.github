@@ -34,7 +34,7 @@ Oppia Android is written using Kotlin and Java, and it leverages Bazel, databind
 
 [GitHub_Discussion_Android]: https://github.com/oppia/oppia-android/discussions
 
-## [Oppiabot](https://github.com/oppia/oppiabot)
+## :robot: [Oppiabot](https://github.com/oppia/oppiabot)
 
 Oppiabot is a GitHub app built with probot and Github Actions. It acts as a helper for Oppia’s code repositories to maintain the development workflow. It is hosted on Heroku.
 
