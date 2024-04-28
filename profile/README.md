@@ -16,18 +16,18 @@ The web version of Oppia currently provides a growing curated set of lessons on 
 
 Oppia Web is written using Python, Typescript, and Angular.
 
- - [How do I get started?](https://github.com/oppia/oppia/wiki/Contributing-code-to-Oppia)  
+ - [How do I get started?](https://github.com/oppia/oppia/wiki)  
  - [Codebase Overview](https://github.com/oppia/oppia/wiki/Overview-of-the-Oppia-codebase)
 
 [GitHub_Discussion_Web]: https://github.com/oppia/oppia/discussions
 
 ## 📱 [Oppia Android](https://github.com/oppia/oppia-android) | [<img height="30" src="https://img.shields.io/badge/Have%20a%20question%3F%20Ask%20the%20team%21-100000?style=for-the-badge&logo=github&logoColor=white" />][GitHub_Discussion_Android]
 
-The Android app is a new, not-yet-released frontend for Oppia that provides access to Oppia's curated numeracy lessons for users who may not have regular access to internet connectivity, and in a way that can be easily shared across multiple members of the same household. All the Basic Mathematics lessons present in Oppia Web will also be accessible via Oppia Android, which will allow users to download lessons and play them offline later.
+The Oppia Android app is now available in beta! It provides access to Oppia's curated numeracy lessons and allows users to download lessons and play them offline, making quality education available even with limited internet connectivity. The app is designed to be easily shared across multiple members of the same household. Download the app from the Google Play Store: [Oppia - Apps on Google Play](https://play.google.com/store/apps/details?id=org.oppia.android&hl=en_US)
 
 Oppia Android is written using Kotlin and Java, and it leverages Bazel, databinding, Dagger 2, and AndroidX.
 
- - [How do I get started?](https://github.com/oppia/oppia-android/wiki#installation)  
+ - [How do I get started?](https://github.com/oppia/oppia-android/wiki)  
  - [Codebase Overview](https://github.com/oppia/oppia-android/wiki/Overview-of-the-Oppia-Android-codebase-and-architecture)
 
 [GitHub_Discussion_Android]: https://github.com/oppia/oppia-android/discussions
