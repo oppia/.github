@@ -5,7 +5,6 @@ Oppia is an open-source project whose aim is to empower learners across the glob
 <details> 
 	<summary><b>"I want more info❗"</b></summary>
     <ul>
-        <li><a href="https://www.oppia.org/about-foundation">Our Vision</a></li>
         <li><a href="https://www.oppia.org/about">About our platform</a></li>
     </ul>
 </details>
@@ -37,8 +36,6 @@ Oppia Android is written using Kotlin and Java, and it leverages Bazel, databind
 Oppiabot is a GitHub app built with probot and Github Actions. It acts as a helper for Oppia’s code repositories to maintain the development workflow. It is hosted on Heroku.
 
 Oppiabot is written using JavaScript.
-
-Note: Oppiabot is not accepting contributors right now.
 
 ## Connect with us!
 
